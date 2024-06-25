@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JennyBooW
+- 👀 I’m interested in Functional Languages especially LISP
+- 🌱 I’m currently learning Common Lisp
